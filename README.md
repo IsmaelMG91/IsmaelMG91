@@ -13,9 +13,10 @@ Actualmente, he finalizado las prácticas de DAW y estoy aprendiendo React.js y 
 * HTML
 * CSS
 * JavaScript
-* Java
-* SQL
 * React.js
+* Java
+* PHP
+* SQL
 <!--
 **IsmaelMG91/IsmaelMG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
