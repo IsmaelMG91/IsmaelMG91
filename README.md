@@ -5,7 +5,7 @@ Tras la pandemia, decidí explorar nuevos horizontes y descubrí mi pasión por 
 
 En 2021, tomé la decisión de iniciar el Ciclo Superior en Desarrollo de Aplicaciones Web (DAW), combinando mis estudios con un trabajo en un despacho de arquitectura, lo que me permitió crecer profesionalmente mientras me adentraba en el mundo IT.
 
-Actualmente, he finalizado las prácticas de DAW y estoy aprendiendo React.js y perfeccionando mis habilidades en HTML, CSS y JavaScript. Busco nuevas oportunidades laborales, motivado por seguir aprendiendo y contribuir al sector tecnológico.
+Actualmente, he finalizado el ciclo de Desarrollo de Aplicaciones Web y busco oportunidades laborales de forma activa, motivado por seguir creciendo como profesional y contribuir al sector tecnológico.
 
 ¡Todo suma 💪!
 
@@ -14,6 +14,8 @@ Actualmente, he finalizado las prácticas de DAW y estoy aprendiendo React.js y 
 * CSS
 * JavaScript
 * React.js
+* Astro
+* Tailwind CSS
 * Java
 * PHP
 * SQL
